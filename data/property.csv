@@ -1,0 +1,19 @@
+buffer,fertilizer,fert_type,fert_timing,Phosphorus_kg_ha_yr,clarity,dock
+100,No,Not Applicable,Not Applicable,0.325,20,0
+100,Yes,No Phosphorus,Not Applicable,0.325,20,0
+100,Yes,Low Phosphorus,warm and dry weather,0.575,16,20
+100,Yes,High Phosphorus,warm and dry weather,0.75,13,40
+100,Yes,Low Phosphorus,cool or wet weather,0.8625,13,40
+100,Yes,High Phosphorus,cool or wet weather,1.125,5,50
+50,No,Not Applicable,Not Applicable,0.4,18,10
+50,Yes,No Phosphorus,Not Applicable,0.845,13,40
+50,Yes,Low Phosphorus,warm and dry weather,1.495,6,50
+50,Yes,Low Phosphorus,cool or wet weather,1.69,2,60
+50,Yes,High Phosphorus,warm and dry weather,1.95,1,70
+50,Yes,High Phosphorus,cool or wet weather,2.925,0.5,90
+0,No,Not Applicable,Not Applicable,0.6,13,40
+0,Yes,No Phosphorus,Not Applicable,1.3,10,40
+0,Yes,Low Phosphorus,warm and dry weather,2.3,1,80
+0,Yes,High Phosphorus,warm and dry weather,3,0.5,90
+0,Yes,Low Phosphorus,cool or wet weather,3.45,0.5,90
+0,Yes,High Phosphorus,cool or wet weather,4.5,0,100
