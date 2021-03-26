@@ -8,4 +8,4 @@ The target audience of the educational tool is lakefront property owners. The go
 
 The effectiveness of this tool in changing landowner perspectives was tested in the Lake Sunapee Region of New Hampshire (USA) in summer 2020. The study manuscript is in prep for publication.
 
-Created in R version 4.0.4
+Created in R version 4.0.4; Vector graphics modified from Ian Symbol Library: https://ian.umces.edu/media-library/symbols/
